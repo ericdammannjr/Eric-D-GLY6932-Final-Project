@@ -14,7 +14,7 @@ Ensure you have Julia installed on your system. Download it here: [Install Julia
 
 ### Clone this Repository:
 
-Clone this repository on by entering the following command into your computer's terminal:
+Clone this repository by entering the following command into your computer's terminal:
 
 ```
 git clone https://github.com/ericdammannjr/Eric-D-GLY6932-Final-Project
