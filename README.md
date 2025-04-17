@@ -8,6 +8,21 @@ Key Files:
 - `src/bayesian_analysis.jl`: Performs Bayesian analysis on the generated data and produces visualizations which are saved to `figs/`.
 - `src/fns/functions.jl`: Contains additional utility functions such as the Runge-Kutta 4th order method and the Lotka-Volterra equations.
 
+## Lotka-Volterra Model 
+ 
+    dx/dt = αx - βxy
+    dy/dt = δxy - γy
+
+    Where:
+
+        x = prey density
+        y = predator density
+
+        α = prey birth rate coefficent
+        β = coefficent for the effect of the presence of predators on the prey death rate
+        δ = coefficent for the effect of the presence of prey on the predator birth rate
+        γ = predator death rate coefficent
+
 ### Install Julia:
 
 Ensure you have Julia installed on your system. Download it here: [Install Julia](https://julialang.org/install/)
