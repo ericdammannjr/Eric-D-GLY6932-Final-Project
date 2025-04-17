@@ -23,7 +23,7 @@ Key Files:
         δ = coefficent for the effect of the presence of prey on the predator birth rate
         γ = predator death rate coefficent
 
-The Lotka-Volterra model is a system of two non-linear ordinary differential equations which are the time derivative of the prey and predator population densities. In this simulation the equations are solved using a 4th order Runge-Kutta numerical integrator. 
+The Lotka-Volterra model is a system of two non-linear ordinary differential equations which are the time derivatives of the prey and predator population densities. In this simulation the equations are solved using a 4th order Runge-Kutta numerical integrator. 
 
 ### Install Julia:
 
