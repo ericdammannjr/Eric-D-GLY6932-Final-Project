@@ -81,4 +81,4 @@ and 4 figures will be generated in the `/figs` folder.
 
 ![Local Image](figs/model_comparison.png)
 
-**Figure 4:** This visualization compares the modeled function with the "true" function used to generate the noisy data. This normally would not be possible because the initial conditions and parameters values would be estimated from real-world observed data and not generated synthetically. However, as an exersise, it showcases the abiltiy of MCMC to estimate parameter values with Bayesian inference from model structures and parameter spaces that are complex and rather large. 
+**Figure 4:** This visualization compares the modeled function with the "true" function used to generate the noisy data. This normally would not be possible because the initial conditions and parameters values would be estimated from real-world observed data and not generated synthetically. However, as an exersise, it showcases the abiltiy of MCMC to accurately estimate parameter values with Bayesian inference from model structures and parameter spaces that are complex and rather large. 
