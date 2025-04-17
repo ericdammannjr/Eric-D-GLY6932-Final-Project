@@ -60,7 +60,7 @@ and 4 figures will be generated in the `/figs` folder.
 
 ![Local Image](figs/model_fit.png)
 
-**Figure 3:** This is a visualization of the raw data and the fitted Lotka-Volterra model with the estimated initial conditions and parameters. From this visual the model seems to fit the data pretty well. We now have a function for the time continuous estimation for predator and prey density.
+**Figure 3:** This is a visualization of the raw data and the fitted Lotka-Volterra model with the estimated initial conditions and parameters. From this visual the model seems to fit the data pretty well. We now have a function for the time continuous estimation for predator and prey density!
 
 ![Local Image](figs/model_comparison.png)
 
