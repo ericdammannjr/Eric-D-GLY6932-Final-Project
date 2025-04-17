@@ -8,7 +8,7 @@ Key Files:
 - `src/bayesian_analysis.jl`: Performs Bayesian analysis on the generated data and produces visualizations which are saved to `figs/`.
 - `src/fns/functions.jl`: Contains additional utility functions such as the Runge-Kutta 4th order method and the Lotka-Volterra equations.
 
-# Lotka-Volterra Model 
+### Lotka-Volterra Model 
  
     dx/dt = αx - βxy
     dy/dt = δxy - γy
